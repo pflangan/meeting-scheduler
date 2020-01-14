@@ -1,6 +1,7 @@
 # meeting-scheduler
 
 > A Vue.js project to explore drag and drop functionality
+Please view demo on https://061tj.csb.app/
 
 ## Build Setup
 
