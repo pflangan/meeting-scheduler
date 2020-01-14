@@ -1,6 +1,6 @@
-# test-project
+# meeting-scheduler
 
-> A Vue.js project
+> A Vue.js project to explore drag and drop functionality
 
 ## Build Setup
 
